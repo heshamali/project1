@@ -1,0 +1,48 @@
+/*------------------------------------- Start The Default Theme ------------------------------*/
+.hesham_nav,
+.navbar-nav .dropdown-menu,
+.option_box .check_icon
+{
+    background-color: #c32356
+}
+
+.about h1 .fa-address-card,
+.about h1 span,
+.features h2,
+.features .feat h4,
+.features .feat i,
+.testimonials span,
+.footer .copyright span
+{
+    color: #c32356
+}
+.testimonials .carousel-indicators li.active {
+    border: 2px solid #c32356
+}
+.footer {
+    background-color: #c32356;
+    color: #FFF
+}
+.footer h3,
+.footer .f_article,
+.footer h5 {
+    color: #FFF
+}
+.footer .social_list li,
+.footer .social_list li:hover {
+    color: #fbfbfb
+}
+.footer .img-thumbnail {
+    border: 2px solid #c32356
+}
+.option_box .color_option {
+    border: 4px solid #c32356
+}
+/*------------------------------- Leave This : ----------------------------*/
+.navbar-dark .navbar-nav .show > .nav-link,
+.navbar-dark .navbar-nav .active > .nav-link,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .nav-link.active
+{
+    background-color: #2F4257
+}
